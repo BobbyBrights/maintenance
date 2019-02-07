@@ -1,0 +1,259 @@
+@font-face {
+  font-family: 'Brown-Bold';
+  src: url('../fonts/Brown-Bold.eot');
+  src: url('../fonts/Brown-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Brown-Bold.woff2') format('woff2'),
+    url('../fonts/Brown-Bold.woff') format('woff'),
+    url('../fonts/Brown-Bold.ttf') format('truetype'),
+    url('../fonts/Brown-Bold.svg#Brown-Bold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-FB04;
+}
+
+@font-face {
+  font-family: 'Brown-Light';
+  src: url('../fonts/Brown-Light.eot');
+  src: url('../fonts/Brown-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Brown-Light.woff2') format('woff2'),
+    url('../fonts/Brown-Light.woff') format('woff'),
+    url('../fonts/Brown-Light.ttf') format('truetype'),
+    url('../fonts/Brown-Light.svg#Brown-Light') format('svg');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-FB04;
+}
+
+html {
+  font-size: 87.5%;
+  box-sizing: border-box;
+  font-size: 12.25px;
+  font-size: 87.5%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'brown-light', Arial, sans-serif;
+  font-weight: normal;
+  line-height: 1.625;
+  color: #000;
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  margin-bottom: 20px;
+  border-radius: 0;
+}
+
+table thead,
+table tbody,
+table tfoot {
+  border: 1px solid #f2f2f2;
+  background-color: #fff;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+table tbody th,
+table tbody td {
+  padding: 0.57143rem 0.71429rem 0.71429rem;
+}
+td,
+th {
+  padding: 0;
+}
+
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+p,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-size: inherit;
+  line-height: 1.625;
+  margin-bottom: 1rem;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Brown-Bold';
+  font-weight: normal;
+  font-style: normal;
+  color: inherit;
+  text-rendering: optimizeLegibility;
+  margin-top: 0;
+  margin-bottom: 12.25px;
+  line-height: 2;
+}
+
+h1 {
+  font-size: 1.75rem;
+}
+
+h2 {
+  font-size: 1.47656rem;
+}
+
+@media screen and (min-width: 40em) {
+  h1 {
+    font-size: 2.625rem;
+  }
+
+  h2 {
+    font-size: 1.75rem;
+  }
+}
+
+a {
+  color: #78a22f;
+  text-decoration: none;
+  line-height: inherit;
+  cursor: pointer;
+}
+
+a:hover,
+a:focus {
+  color: #678b28;
+}
+
+.callout {
+  margin: 0 0 1rem 0;
+  padding: 1rem;
+  border: 1px solid #f8f7f7;
+  border-radius: 0;
+  position: relative;
+  color: #000;
+  background-color: #f8f7f7;
+}
+
+.callout > :first-child {
+  margin-top: 0;
+}
+
+.callout > :last-child {
+  margin-bottom: 0;
+}
+
+h1,
+.h1 {
+  font-size: 24.5px;
+  font-size: 2rem;
+  line-height: 30px;
+  line-height: 2.44898rem;
+  margin-top: 20px;
+  margin-top: 1.63265rem;
+  margin-bottom: 20px;
+  margin-bottom: 1.63265rem;
+}
+
+h2,
+.h2 {
+  font-size: 18.375px;
+  font-size: 1.5rem;
+  line-height: 30px;
+  line-height: 2.44898rem;
+  margin-top: 20px;
+  margin-top: 1.63265rem;
+  margin-bottom: 10px;
+  margin-bottom: 0.81633rem;
+}
+
+@media screen and (min-width: 40em) {
+  h1,
+  .h1 {
+    font-size: 36.75px;
+    font-size: 3rem;
+    line-height: 40px;
+    line-height: 3.26531rem;
+    margin-top: 40px;
+    margin-top: 3.26531rem;
+    margin-bottom: 20px;
+    margin-bottom: 1.63265rem;
+  }
+
+  h2,
+  .h2 {
+    font-size: 24.5px;
+    font-size: 2rem;
+    line-height: 30px;
+    line-height: 2.44898rem;
+    margin-top: 40px;
+    margin-top: 3.26531rem;
+    margin-bottom: 10px;
+    margin-bottom: 0.81633rem;
+  }
+}
+
+@media screen and (min-width: 75em) {
+  html {
+    font-size: 12.25px;
+    font-size: 0.875rem;
+  }
+
+  h1,
+  .h1 {
+    font-size: 42.875px;
+    font-size: 3.5rem;
+    line-height: 40px;
+    line-height: 3.26531rem;
+    margin-top: 40px;
+    margin-top: 3.26531rem;
+    margin-bottom: 20px;
+    margin-bottom: 1.63265rem;
+  }
+
+  h2,
+  .h2 {
+    font-size: 24.5px;
+    font-size: 2rem;
+    line-height: 30px;
+    line-height: 2.44898rem;
+    margin-top: 40px;
+    margin-top: 3.26531rem;
+    margin-bottom: 10px;
+    margin-bottom: 0.81633rem;
+  }
+}
+
+h1 + h2 {
+  margin-top: 20px;
+  margin-top: 1.63265rem;
+}
