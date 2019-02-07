@@ -1,0 +1,291 @@
+/***********************************/
+/* PLEASE NOTE: This files is auto */
+/* generated. Please see source in */
+/* auto-generated/ for working fil */
+/***********************************/
+@font-face {
+  font-family: 'fontmandu';
+  src: url('../fonts/fontmandu.eot');
+  src: url('../fonts/fontmandu.eot?#iefix') format('eot'),
+    url('../fonts/fontmandu.woff2') format('woff2'),
+    url('../fonts/fontmandu.woff') format('woff'),
+    url('../fonts/fontmandu.ttf') format('truetype'),
+    url('../fonts/fontmandu.svg#fontmandu') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/***********************************/
+/* PLEASE NOTE: This files is auto */
+/* generated. Please see source in */
+/* auto-generated/ for working fil */
+/***********************************/
+.kmd-i:before {
+  display: inline-block;
+  font-family: 'fontmandu';
+  font-style: normal;
+  font-weight: normal;
+  vertical-align: middle;
+  line-height: 1;
+  font-size: 1em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/***********************************/
+/* PLEASE NOTE: This files is auto */
+/* generated. Please see source in */
+/* auto-generated/ for working fil */
+/***********************************/
+.kmd-i-lg {
+  font-size: 1.3333333333333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+/***********************************/
+/* PLEASE NOTE: This files is auto */
+/* generated. Please see source in */
+/* auto-generated/ for working fil */
+/***********************************/
+.kmd-i-2x { font-size: 2em; }
+.kmd-i-3x { font-size: 3em; }
+.kmd-i-4x { font-size: 4em; }
+.kmd-i-5x { font-size: 5em; }
+.kmd-i-fw {
+  width: 1.2857142857142858em;
+  text-align: center;
+}
+
+.kmd-i--spinning {
+  animation: spinning linear 2s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 50%;
+}
+/***********************************/
+/* PLEASE NOTE: This files is auto */
+/* generated. Please see source in */
+/* auto-generated/ for working fil */
+/***********************************/
+.kmd-i-alarm:before { content: "\EA01" }
+.kmd-i-align-center:before { content: "\EA02" }
+.kmd-i-align-justify:before { content: "\EA03" }
+.kmd-i-align-left:before { content: "\EA04" }
+.kmd-i-align-right:before { content: "\EA05" }
+.kmd-i-anchor:before { content: "\EA06" }
+.kmd-i-archive:before { content: "\EA07" }
+.kmd-i-arrow-down:before { content: "\EA08" }
+.kmd-i-arrow-left:before { content: "\EA09" }
+.kmd-i-arrow-right:before { content: "\EA0A" }
+.kmd-i-arrow-thin-down:before { content: "\EA0B" }
+.kmd-i-arrow-thin-left:before { content: "\EA0C" }
+.kmd-i-arrow-thin-right:before { content: "\EA0D" }
+.kmd-i-arrow-thin-up:before { content: "\EA0E" }
+.kmd-i-arrow-up:before { content: "\EA0F" }
+.kmd-i-article:before { content: "\EA10" }
+.kmd-i-backspace:before { content: "\EA11" }
+.kmd-i-basket:before { content: "\EA12" }
+.kmd-i-basketball:before { content: "\EA13" }
+.kmd-i-battery-empty:before { content: "\EA14" }
+.kmd-i-battery-full:before { content: "\EA15" }
+.kmd-i-battery-low:before { content: "\EA16" }
+.kmd-i-battery-medium:before { content: "\EA17" }
+.kmd-i-bell:before { content: "\EA18" }
+.kmd-i-blog:before { content: "\EA19" }
+.kmd-i-bluetooth:before { content: "\EA1A" }
+.kmd-i-bold:before { content: "\EA1B" }
+.kmd-i-bookmark:before { content: "\EA1C" }
+.kmd-i-bookmarks:before { content: "\EA1D" }
+.kmd-i-box:before { content: "\EA1E" }
+.kmd-i-briefcase:before { content: "\EA1F" }
+.kmd-i-brightness-low:before { content: "\EA20" }
+.kmd-i-brightness-max:before { content: "\EA21" }
+.kmd-i-brightness-medium:before { content: "\EA22" }
+.kmd-i-broadcast:before { content: "\EA23" }
+.kmd-i-browser-upload:before { content: "\EA24" }
+.kmd-i-browser:before { content: "\EA25" }
+.kmd-i-brush:before { content: "\EA26" }
+.kmd-i-calendar:before { content: "\EA27" }
+.kmd-i-camcorder:before { content: "\EA28" }
+.kmd-i-camera:before { content: "\EA29" }
+.kmd-i-card:before { content: "\EA2A" }
+.kmd-i-cart:before { content: "\EA2B" }
+.kmd-i-checklist:before { content: "\EA2C" }
+.kmd-i-checkmark:before { content: "\EA2D" }
+.kmd-i-chevron-down:before { content: "\EA2E" }
+.kmd-i-chevron-left:before { content: "\EA2F" }
+.kmd-i-chevron-right:before { content: "\EA30" }
+.kmd-i-chevron-up:before { content: "\EA31" }
+.kmd-i-clipboard:before { content: "\EA32" }
+.kmd-i-clock:before { content: "\EA33" }
+.kmd-i-clockwise:before { content: "\EA34" }
+.kmd-i-cloud-download:before { content: "\EA35" }
+.kmd-i-cloud-upload:before { content: "\EA36" }
+.kmd-i-cloud:before { content: "\EA37" }
+.kmd-i-code:before { content: "\EA38" }
+.kmd-i-contract-2:before { content: "\EA39" }
+.kmd-i-contract:before { content: "\EA3A" }
+.kmd-i-conversation:before { content: "\EA3B" }
+.kmd-i-copy:before { content: "\EA3C" }
+.kmd-i-crop:before { content: "\EA3D" }
+.kmd-i-cross:before { content: "\EA3E" }
+.kmd-i-crosshair:before { content: "\EA3F" }
+.kmd-i-cutlery:before { content: "\EA40" }
+.kmd-i-device-desktop:before { content: "\EA41" }
+.kmd-i-device-mobile:before { content: "\EA42" }
+.kmd-i-device-tablet:before { content: "\EA43" }
+.kmd-i-direction:before { content: "\EA44" }
+.kmd-i-disc:before { content: "\EA45" }
+.kmd-i-document-delete:before { content: "\EA46" }
+.kmd-i-document-edit:before { content: "\EA47" }
+.kmd-i-document-new:before { content: "\EA48" }
+.kmd-i-document-remove:before { content: "\EA49" }
+.kmd-i-document:before { content: "\EA4A" }
+.kmd-i-dot:before { content: "\EA4B" }
+.kmd-i-dots-2:before { content: "\EA4C" }
+.kmd-i-dots-3:before { content: "\EA4D" }
+.kmd-i-download:before { content: "\EA4E" }
+.kmd-i-duplicate:before { content: "\EA4F" }
+.kmd-i-enter:before { content: "\EA50" }
+.kmd-i-exit:before { content: "\EA51" }
+.kmd-i-expand-2:before { content: "\EA52" }
+.kmd-i-expand:before { content: "\EA53" }
+.kmd-i-experiment:before { content: "\EA54" }
+.kmd-i-export:before { content: "\EA55" }
+.kmd-i-feed:before { content: "\EA56" }
+.kmd-i-flag:before { content: "\EA57" }
+.kmd-i-flashlight:before { content: "\EA58" }
+.kmd-i-folder-open:before { content: "\EA59" }
+.kmd-i-folder:before { content: "\EA5A" }
+.kmd-i-forward:before { content: "\EA5B" }
+.kmd-i-gaming:before { content: "\EA5C" }
+.kmd-i-gear:before { content: "\EA5D" }
+.kmd-i-graduation:before { content: "\EA5E" }
+.kmd-i-graph-bar:before { content: "\EA5F" }
+.kmd-i-graph-line:before { content: "\EA60" }
+.kmd-i-graph-pie:before { content: "\EA61" }
+.kmd-i-headset:before { content: "\EA62" }
+.kmd-i-heart:before { content: "\EA63" }
+.kmd-i-help:before { content: "\EA64" }
+.kmd-i-home:before { content: "\EA65" }
+.kmd-i-hourglass:before { content: "\EA66" }
+.kmd-i-inbox:before { content: "\EA67" }
+.kmd-i-information:before { content: "\EA68" }
+.kmd-i-italic:before { content: "\EA69" }
+.kmd-i-jewel:before { content: "\EA6A" }
+.kmd-i-lifting:before { content: "\EA6B" }
+.kmd-i-lightbulb:before { content: "\EA6C" }
+.kmd-i-link-broken:before { content: "\EA6D" }
+.kmd-i-link:before { content: "\EA6E" }
+.kmd-i-list:before { content: "\EA6F" }
+.kmd-i-loading:before { content: "\EA70" }
+.kmd-i-location:before { content: "\EA71" }
+.kmd-i-lock-open:before { content: "\EA72" }
+.kmd-i-lock:before { content: "\EA73" }
+.kmd-i-mail:before { content: "\EA74" }
+.kmd-i-map:before { content: "\EA75" }
+.kmd-i-media-loop:before { content: "\EA76" }
+.kmd-i-media-next:before { content: "\EA77" }
+.kmd-i-media-pause:before { content: "\EA78" }
+.kmd-i-media-play:before { content: "\EA79" }
+.kmd-i-media-previous:before { content: "\EA7A" }
+.kmd-i-media-record:before { content: "\EA7B" }
+.kmd-i-media-shuffle:before { content: "\EA7C" }
+.kmd-i-media-stop:before { content: "\EA7D" }
+.kmd-i-medical:before { content: "\EA7E" }
+.kmd-i-menu:before { content: "\EA7F" }
+.kmd-i-message:before { content: "\EA80" }
+.kmd-i-meter:before { content: "\EA81" }
+.kmd-i-microphone:before { content: "\EA82" }
+.kmd-i-minus:before { content: "\EA83" }
+.kmd-i-monitor:before { content: "\EA84" }
+.kmd-i-move:before { content: "\EA85" }
+.kmd-i-music:before { content: "\EA86" }
+.kmd-i-network-1:before { content: "\EA87" }
+.kmd-i-network-2:before { content: "\EA88" }
+.kmd-i-network-3:before { content: "\EA89" }
+.kmd-i-network-4:before { content: "\EA8A" }
+.kmd-i-network-5:before { content: "\EA8B" }
+.kmd-i-pamphlet:before { content: "\EA8C" }
+.kmd-i-paperclip:before { content: "\EA8D" }
+.kmd-i-pencil:before { content: "\EA8E" }
+.kmd-i-phone:before { content: "\EA8F" }
+.kmd-i-photo-group:before { content: "\EA90" }
+.kmd-i-photo:before { content: "\EA91" }
+.kmd-i-pill:before { content: "\EA92" }
+.kmd-i-pin:before { content: "\EA93" }
+.kmd-i-plus:before { content: "\EA94" }
+.kmd-i-power:before { content: "\EA95" }
+.kmd-i-preview:before { content: "\EA96" }
+.kmd-i-print:before { content: "\EA97" }
+.kmd-i-pulse:before { content: "\EA98" }
+.kmd-i-question:before { content: "\EA99" }
+.kmd-i-reply-all:before { content: "\EA9A" }
+.kmd-i-reply:before { content: "\EA9B" }
+.kmd-i-return:before { content: "\EA9C" }
+.kmd-i-retweet:before { content: "\EA9D" }
+.kmd-i-rocket:before { content: "\EA9E" }
+.kmd-i-scale:before { content: "\EA9F" }
+.kmd-i-search:before { content: "\EAA0" }
+.kmd-i-shopping-bag:before { content: "\EAA1" }
+.kmd-i-skip:before { content: "\EAA2" }
+.kmd-i-stack:before { content: "\EAA3" }
+.kmd-i-star:before { content: "\EAA4" }
+.kmd-i-stopwatch:before { content: "\EAA5" }
+.kmd-i-store:before { content: "\EAA6" }
+.kmd-i-suitcase:before { content: "\EAA7" }
+.kmd-i-swap:before { content: "\EAA8" }
+.kmd-i-tag-delete:before { content: "\EAA9" }
+.kmd-i-tag:before { content: "\EAAA" }
+.kmd-i-tags:before { content: "\EAAB" }
+.kmd-i-thumbs-down:before { content: "\EAAC" }
+.kmd-i-thumbs-up:before { content: "\EAAD" }
+.kmd-i-ticket:before { content: "\EAAE" }
+.kmd-i-time-reverse:before { content: "\EAAF" }
+.kmd-i-to-do:before { content: "\EAB0" }
+.kmd-i-toggles:before { content: "\EAB1" }
+.kmd-i-trash:before { content: "\EAB2" }
+.kmd-i-trophy:before { content: "\EAB3" }
+.kmd-i-upload:before { content: "\EAB4" }
+.kmd-i-user-group:before { content: "\EAB5" }
+.kmd-i-user-id:before { content: "\EAB6" }
+.kmd-i-user:before { content: "\EAB7" }
+.kmd-i-vibrate:before { content: "\EAB8" }
+.kmd-i-view-apps:before { content: "\EAB9" }
+.kmd-i-view-list-large:before { content: "\EABA" }
+.kmd-i-view-list:before { content: "\EABB" }
+.kmd-i-view-thumb:before { content: "\EABC" }
+.kmd-i-share:before { content: "\EABD" }
+.kmd-i-cross-2:before { content: "\EABE" }
+.kmd-i-wallet:before { content: "\EAC1" }
+.kmd-i-warning:before { content: "\EAC2" }
+.kmd-i-web:before { content: "\EAC3" }
+.kmd-i-weight:before { content: "\EAC4" }
+.kmd-i-wifi:before { content: "\EAC5" }
+.kmd-i-wrong:before { content: "\EAC6" }
+.kmd-i-zoom-in:before { content: "\EAC7" }
+.kmd-i-zoom-out:before { content: "\EAC8" }
+.kmd-i-cc-amex:before { content: "\EAC9" }
+.kmd-i-cc-mastercard:before { content: "\EACB" }
+.kmd-i-cc-paypal:before { content: "\EACC" }
+.kmd-i-cc-visa:before { content: "\EACE" }
+.kmd-i-facebook:before { content: "\EACF" }
+.kmd-i-google-plus:before { content: "\EAD0" }
+.kmd-i-google-wallet:before { content: "\EAD1" }
+.kmd-i-instagram:before { content: "\EAD2" }
+.kmd-i-linkedin:before { content: "\EAD3" }
+.kmd-i-pinterest-p:before { content: "\EAD5" }
+.kmd-i-twitter:before { content: "\EAD6" }
+.kmd-i-vimeo:before { content: "\EAD7" }
+.kmd-i-youtube:before { content: "\EAD8" }
+.kmd-i-cc-visa-debit:before { content: "\EADA" }
+
+
+
+
+@keyframes spinning {
+  0% {
+    transform: rotate(0deg) ;
+  }
+  100% {
+    transform: rotate(360deg) ;
+  }
+}
