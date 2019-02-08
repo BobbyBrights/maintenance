@@ -17,14 +17,14 @@ To setup the appropriate configuration on the following `s3` buckets:
 - s3://www.kathmandu.co.uk
 - s3://www.kathmanduoutdoor.com
 
-simply run `./bin/setup.sh`. This'll enable 'Static Website Hosting' and add a
-public bucket policy (defined in `/bin/config/…`).
+simply run `./bin/setup.sh` run the project root. This'll enable 'Static Website
+Hosting' and add a public bucket policy (defined in `/config/…`).
 
 ## Deploy
 
-To deploy the site(s) run `./bin/deploy.sh`.
+To deploy the site(s) run `./bin/deploy.sh` run the project root.
 
 ## Teardown
 
 If the static websites are no longer required, i.e. maintenance mode is
-complete, run `./bin/teardown.sh`.
+complete, run `./bin/teardown.sh` run the project root.
