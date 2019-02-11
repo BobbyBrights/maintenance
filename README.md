@@ -22,9 +22,9 @@ Hosting' and add a public bucket policy (defined in `/config/…`).
 
 ## Deploy
 
-To deploy the site(s) run `./bin/deploy.sh` run the project root.
+To deploy the site(s) run `./bin/deploy.sh` from the project root.
 
 ## Teardown
 
 If the static websites are no longer required, i.e. maintenance mode is
-complete, run `./bin/teardown.sh` run the project root.
+complete, run `./bin/teardown.sh` from the project root.
