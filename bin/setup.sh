@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
 # Configure buckets for website hosting
+echo -e "enabling Admin static website\n"
+aws s3 website s3://master.kathmandu.co.nz/ --index-document "index.html" --error-document "index.html"
 echo -e "enabling NZ static website\n"
 aws s3 website s3://www.kathmandu.co.nz/ --index-document "index.html" --error-document "index.html"
 echo -e "enabling AU static website\n"
@@ -11,6 +13,8 @@ echo -e "enabling US static website\n"
 aws s3 website s3://www.kathmanduoutdoor.com/ --index-document "index.html" --error-document "index.html"
 
 # Configure bucket policy
+echo -e "putting Admin bucket policy\n"
+aws s3api put-bucket-policy --bucket master.kathmandu.co.nz --policy file://config/master_policy.json
 echo -e "putting NZ bucket policy\n"
 aws s3api put-bucket-policy --bucket www.kathmandu.co.nz --policy file://config/nz_policy.json
 echo -e "putting AU bucket policy\n"
