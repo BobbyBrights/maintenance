@@ -2,13 +2,13 @@
 
 # Configure buckets for website hosting
 echo -e "enabling NZ static website\n"
-aws s3 website s3://www.kathmandu.co.nz/ --index-document "index.html"
+aws s3 website s3://www.kathmandu.co.nz/ --index-document "index.html" --error-document "index.html"
 echo -e "enabling AU static website\n"
-aws s3 website s3://www.kathmandu.com.au/ --index-document "index.html"
+aws s3 website s3://www.kathmandu.com.au/ --index-document "index.html" --error-document "index.html"
 echo -e "enabling UK static website\n"
-aws s3 website s3://www.kathmandu.co.uk/ --index-document "index.html"
+aws s3 website s3://www.kathmandu.co.uk/ --index-document "index.html" --error-document "index.html"
 echo -e "enabling US static website\n"
-aws s3 website s3://www.kathmanduoutdoor.com/ --index-document "index.html"
+aws s3 website s3://www.kathmanduoutdoor.com/ --index-document "index.html" --error-document "index.html"
 
 # Configure bucket policy
 echo -e "putting NZ bucket policy\n"

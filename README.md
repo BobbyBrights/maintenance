@@ -17,8 +17,8 @@ To setup the appropriate configuration on the following `s3` buckets:
 - s3://www.kathmandu.co.uk
 - s3://www.kathmanduoutdoor.com
 
-simply run `./bin/setup.sh` run the project root. This'll enable 'Static Website
-Hosting' and add a public bucket policy (defined in `/config/…`).
+simply run `./bin/setup.sh` from the project root. This'll enable 'Static
+Website Hosting' and add a public bucket policy (defined in `/config/…`).
 
 ## Deploy
 
